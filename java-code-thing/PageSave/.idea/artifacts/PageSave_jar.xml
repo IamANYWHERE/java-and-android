@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PageSave:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PageSave_jar</output-path>
+    <root id="archive" name="PageSave.jar">
+      <element id="module-output" name="PageSave" />
+    </root>
+  </artifact>
+</component>
