@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">声之形</string>
+    <string name="fab_menu_item1">change the picture</string>
+    <string name="fab_menu_item2">delete</string>
+    <string name="preference_file_key">com.bignerdranch.android.Voice.PREFERENCE_FILE_KEY</string>
+    <string name="copyright">Copyrightⓒ 2016-2017 Voice\n Create by George</string>
+    <string name="choose_title">选择一个播放器</string>
+    <string name="fab_menu_item3_play">play</string>
+    <string name="fab_menu_item3_stop">stop</string>
+</resources>
